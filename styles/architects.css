@@ -131,7 +131,7 @@ main >section{
     .navbar, .nav-link, .teams {
         flex-direction: column;
     }
-    .team-img-container{
+    .team-img-container, .facts-container{
       grid-template-columns: repeat(1, 1fr);
     }
     .our-features{
